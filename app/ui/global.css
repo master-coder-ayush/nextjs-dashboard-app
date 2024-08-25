@@ -1,3 +1,5 @@
+/* This styling is applied to the whole website so it can be used for styling like a[visited] etc stuff
+ for consistency. To use this file in whole website, global.css must be imported in top level file, layout.tsx */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
